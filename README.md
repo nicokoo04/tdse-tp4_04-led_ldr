@@ -1,3 +1,12 @@
+# FIUBA - Electrónica - Taller de Sistemas Embebidos
+## Trabajo Práctico N°: 4 - LDR
+### 2026-2doC - 1-03
+### Responsable de la entrega:
+| Padrón | Apellidos, Nombres | Fecha | Deadline |
+| :----- | :--------------------- | :------: | :-------: |
+| 113609 | Koo, Nicolás Uriel | 27/10/2026 | Semana 11 |
+
+
 # tdse-tp4_04-led_ldr
 
 ## Materiales 
