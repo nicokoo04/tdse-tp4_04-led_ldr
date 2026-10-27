@@ -1,0 +1,77 @@
+LDR: varía su valor de 700Ohms(mucha luz) a unos 700kOhms.
+
+Consola:
+
+app_init is running - Tick [mS] = 0
+
+ Bare Metal - Event-Triggered Systems (ETS)
+ ADC + PWM
+ g_app_cnt = 0
+  task_adc_init is running - Task ADC
+
+  task_pwm_init is running - Task PWM
+
+2048,0
+4096,0
+6144,0
+8192,0
+10240,0
+12288,0
+14336,0
+16384,0
+18432,94
+20480,23
+22528,0
+24576,41
+26624,6
+28672,118
+30720,214
+32768,27
+34816,34
+36864,71
+38912,80
+40960,95
+43008,291
+45056,298
+47104,79
+49152,326
+51200,273
+53248,310
+55296,154
+57344,331
+59392,170
+61440,228
+63488,314
+61440,308
+59392,330
+57344,340
+55296,313
+53248,325
+51200,279
+49152,308
+47104,291
+45056,211
+43008,300
+40960,84
+38912,317
+36864,242
+34816,97
+32768,289
+30720,50
+28672,286
+26624,173
+24576,276
+22528,231
+20480,114
+18432,27
+16384,190
+14336,218
+12288,130
+10240,32
+8192,0
+6144,0
+4096,0
+2048,0
+
+
+Mirando la segunda columna de la lectura de la PA0 el máximo es 340, donde el brillo era máximo, y el mínimo 0 cuando es muy bajo el brillo del led.
